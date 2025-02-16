@@ -484,4 +484,4 @@ Get expert insights on Azure innovations:
 
 ### Author
 
-![Author Image](https://imgur.com/f4rBnpK.gif)
+![Author Image](https://imgur.com/2j7GSPs.png)
